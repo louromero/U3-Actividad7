@@ -1,0 +1,81 @@
+{
+    "__class__": "lista",
+    "personal": [
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": 2052842499,
+                "nombre": "gonzalo",
+                "apellido": "gimenez",
+                "sueldoB": 50000,
+                "antiguedad": 6,
+                "area": "computacion",
+                "tipoInv": "Teorica",
+                "carrera": "informatica",
+                "cargo": "simple",
+                "catedra": "matematica",
+                "categoria": "I",
+                "importeExtra": 5000
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": 2052842499,
+                "nombre": "martin",
+                "apellido": "fierro",
+                "sueldoB": 200000,
+                "antiguedad": 12,
+                "area": "fisica",
+                "tipoInv": "practica",
+                "carrera": "informatica",
+                "cargo": "semiexclusivo",
+                "catedra": "matematica",
+                "categoria": "II",
+                "importeExtra": 8000
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": 2052842499,
+                "nombre": "segismundo",
+                "apellido": "guzman",
+                "sueldoB": 66000,
+                "antiguedad": 8,
+                "area": "computacion",
+                "tipoInv": "Teorica",
+                "carrera": "biologia",
+                "cargo": "exclusivo",
+                "catedra": "quimica",
+                "categoria": "I",
+                "importeExtra": 7000
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": 1052485698,
+                "nombre": "marcelo",
+                "apellido": "antunia",
+                "sueldoB": 60000,
+                "antiguedad": 15,
+                "carrera": "geologia",
+                "cargo": "simple",
+                "catedra": "Matematica"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": 202541236,
+                "nombre": "ricardo",
+                "apellido": "gomez",
+                "sueldoB": 80000,
+                "antiguedad": 10,
+                "area": "Algebra",
+                "tipoInv": "practica"
+            }
+        }
+    ]
+}
